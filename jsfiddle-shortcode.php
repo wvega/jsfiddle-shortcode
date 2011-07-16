@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JSFiddle Shortcode
-Plugin URI:
+Plugin URI: http://wvega.com/492/jsfiddle-shortcode/
 Description: Allows to easily embed Fiddles using a small shortcode.
 Version: 0.1
 Author: Willington Vega
