@@ -3,16 +3,12 @@ Contributors: wvega
 Donate link: http://wvega.com/
 Tags: jsfiddle
 Requires at least: 3.2.1
-Tested up to: 3.2.1
-Stable tag: 0.1
+Tested up to: 4.0
+Stable tag: 1.0.0
 
 Allows to easily embed Fiddles using a small shortcode.
 
 == Description ==
-
-# JSFiddle Shortcode
-
-I tested the plugin with WordPress 3.2.1 but it's so simple that it should work with previous versions without problems. If you happen to test it against older versions, please let me know how it goes.
 
 ## Usage:
 
@@ -41,6 +37,9 @@ I tested the plugin with WordPress 3.2.1 but it's so simple that it should work 
 1. A JSFiddle embedded in a post using the plugin.
 
 == Changelog ==
+
+= 1.0.0 =
+Fix PHP Deprecated notice.
 
 = 0.1 =
 First release.
