@@ -11,7 +11,7 @@
  * Plugin Name:       JSFiddle Shortcode
  * Plugin URI:        http://wvega.com/492/jsfiddle-shortcode/
  * Description:       Allows to easily embed Fiddles using a small shortcode.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Willington Vega
  * Author URI:        http://wvega.com/
  * License:           GPL-2.0+
