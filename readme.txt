@@ -3,8 +3,8 @@ Contributors: wvega
 Donate link: http://wvega.com/
 Tags: jsfiddle
 Requires at least: 3.2.1
-Tested up to: 4.0
-Stable tag: 1.0.0
+Tested up to: 4.3
+Stable tag: 1.0.1
 
 Allows to easily embed Fiddles using a small shortcode.
 
@@ -37,6 +37,10 @@ Allows to easily embed Fiddles using a small shortcode.
 1. A JSFiddle embedded in a post using the plugin.
 
 == Changelog ==
+
+= 1.0.1 =
+
+Tested up to WordPress 4.4-beta1.
 
 = 1.0.0 =
 Fix PHP Deprecated notice.
