@@ -1,6 +1,6 @@
 === JSFiddle Shortcode ===
 Contributors: wvega
-Donate link: http://wvega.com/
+Donate link: https://wvega.com/
 Tags: jsfiddle
 Requires at least: 3.2.1
 Tested up to: 4.9.8

@@ -9,11 +9,11 @@
  *
  * @wordpress-plugin
  * Plugin Name:       JSFiddle Shortcode
- * Plugin URI:        http://wvega.com/492/jsfiddle-shortcode/
+ * Plugin URI:        https://wvega.com/492/jsfiddle-shortcode/
  * Description:       Allows to easily embed Fiddles using a small shortcode.
  * Version:           1.1.0
  * Author:            Willington Vega
- * Author URI:        http://wvega.com/
+ * Author URI:        https://wvega.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
