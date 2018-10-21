@@ -3,7 +3,7 @@ Contributors: wvega
 Donate link: https://wvega.com/
 Tags: jsfiddle
 Requires at least: 3.2.1
-Tested up to: 4.9.8
+Tested up to: 5.0.0
 Stable tag: 1.1.0
 
 Allows to easily embed Fiddles using a small shortcode.
