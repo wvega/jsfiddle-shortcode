@@ -35,7 +35,7 @@ function jsfiddle_shortcode_attrs( $atts ) {
     $accepted_tabs = array('result', 'js', 'css', 'html');
 
     $atts = shortcode_atts( array(
-        'url' => 'http://jsfiddle.net/wvega/UupFu/',
+        'url' => 'https://jsfiddle.net/wvega/UupFu/',
         'height' => '300px',
         'include' => implode( ',', $accepted_tabs ),
         'theme' => null,
