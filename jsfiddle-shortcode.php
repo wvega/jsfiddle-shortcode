@@ -47,6 +47,11 @@ function jsfiddle_shortcode_attrs( $atts ) {
 
     $atts['url'] = set_url_scheme( sanitize_url( $atts['url'] ) );
     $atts['include'] = array_intersect( $accepted_tabs, explode( ',', $atts['include'] ) );
+    $atts['theme'] = sanitize_key( $atts['theme'] );
+    $atts['font-color'] = sanitize_key( $atts['font-color'] );
+    $atts['code-background-color'] = sanitize_key( $atts['code-background-color'] );
+    $atts['menu-background-color'] = sanitize_key( $atts['menu-background-color'] );
+    $atts['accent-color'] = sanitize_key( $atts['accent-color'] );
 
     return $atts;
 }
