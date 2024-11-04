@@ -45,6 +45,7 @@ function jsfiddle_shortcode_attrs( $atts ) {
         'accent-color' => null,
     ), $atts );
 
+    $atts['url'] = set_url_scheme( sanitize_url( $atts['url'] ) );
     $atts['include'] = array_intersect( $accepted_tabs, explode( ',', $atts['include'] ) );
 
     return $atts;
