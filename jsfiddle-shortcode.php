@@ -18,7 +18,7 @@
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-function jsfiddle_shortcode_handler($atts, $content) {
+function jsfiddle_shortcode_handler($atts) {
     $atts = jsfiddle_shortcode_attrs( $atts );
 
     if ( empty( $atts['url'] ) ) {
