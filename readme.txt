@@ -12,7 +12,7 @@ Allows to easily embed Fiddles using a small shortcode.
 
 ## Usage:
 
-`[jsfiddle url="http://jsfiddle.net/wvega/UupFu/" height="300px" include="result,html,js,css" font-color="39464E" menu-background-color="FFFFFF" code-background-color="f3f5f6" accent-color="1C90F3"]`
+`[jsfiddle url="https://jsfiddle.net/wvega/UupFu/" height="300px" include="result,html,js,css" font-color="39464E" menu-background-color="FFFFFF" code-background-color="f3f5f6" accent-color="1C90F3"]`
 
 * All attributes are optional.
 * `url` is the URL of the fiddle you want to embed, with or without trailing slash.
@@ -24,9 +24,9 @@ Allows to easily embed Fiddles using a small shortcode.
 
 ## Result:
 
-`<iframe style="width: 100%; height: 300px" src="http://jsfiddle.net/wvega/UupFu/embedded/result,html,js,css/?fontColor=39464E&menuColor=FFFFFF&bodyColor=f3f5f6&accentColor=1C90F3"></iframe>`
+`<iframe style="width: 100%; height: 300px" src="https://jsfiddle.net/wvega/UupFu/embedded/result,html,js,css/?fontColor=39464E&menuColor=FFFFFF&bodyColor=f3f5f6&accentColor=1C90F3"></iframe>`
 
-<iframe style="width: 100%; height: 300px" src="http://jsfiddle.net/wvega/UupFu/embedded/result,html,js,css/?fontColor=39464E&menuColor=FFFFFF&bodyColor=f3f5f6&accentColor=1C90F3"></iframe>
+<iframe style="width: 100%; height: 300px" src="https://jsfiddle.net/wvega/UupFu/embedded/result,html,js,css/?fontColor=39464E&menuColor=FFFFFF&bodyColor=f3f5f6&accentColor=1C90F3"></iframe>
 
 == Installation ==
 
