@@ -60,9 +60,8 @@ function jsfiddle_shortcode_embed_url( $atts ) {
     $url = str_replace( '<jsfiddle-url>', trim( $atts['url'], '/' ), $url );
     $url = str_replace( '<tabs>', implode( ',', $atts['include'] ), $url );
     $url = str_replace( '<theme>', $atts['theme'], $url );
-    $url = add_query_arg( jsfiddle_shortcode_query_args( $atts ), $url );
 
-    return $url;
+    return add_query_arg( jsfiddle_shortcode_query_args( $atts ), $url );
 }
 
 function jsfiddle_shortcode_query_args( $atts ) {
