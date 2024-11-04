@@ -27,7 +27,7 @@ function jsfiddle_shortcode_handler($atts, $content) {
 
     $url = jsfiddle_shortcode_embed_url( $atts );
 
-    return '<iframe style="width: 100%; height: ' . $atts['height'] . '" src="' . $url . '" allowfullscreen="allowfullscreen" frameborder="0"></iframe>';
+    return '<iframe style="' . esc_attr( "width: 100%; height: {$atts['height']}" ) . '" src="' . esc_url( $url ) . '" allowfullscreen="allowfullscreen" frameborder="0"></iframe>';
 }
 add_shortcode('jsfiddle', 'jsfiddle_shortcode_handler');
 
