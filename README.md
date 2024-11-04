@@ -1,6 +1,6 @@
 # JSFiddle Shortcode
 
-Tested up to 5.0.0 and known to work on versions of WordPress as old as 3.2.1. If you happen to test it against older versions, please let me know how it goes.
+Tested up to 5.5.0 and known to work on versions of WordPress as old as 3.4.0. If you happen to test it against older versions, please let me know how it goes.
 
 ## Usage:
 
