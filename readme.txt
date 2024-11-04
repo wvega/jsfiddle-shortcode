@@ -4,7 +4,7 @@ Donate link: https://wvega.com/
 Tags: jsfiddle
 Requires at least: 3.4.0
 Tested up to: 6.6.2
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 
 Allows to easily embed Fiddles using a small shortcode.
 
@@ -41,6 +41,12 @@ Allows to easily embed Fiddles using a small shortcode.
 1. A JSFiddle embedded in a post using the plugin.
 
 == Changelog ==
+
+= 1.1.2 =
+
+- Tested up to WordPress 6.6.2
+- Force HTTPS scheme for provided fiddle URLs to match the site's scheme
+- Improve sanitization of shortcode attributes and escape the value of the resulting HTML attributes
 
 = 1.1.1 =
 
