@@ -4,7 +4,7 @@ Donate link: https://wvega.com/
 Tags: jsfiddle
 Requires at least: 3.4.0
 Tested up to: 6.6.2
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
@@ -43,6 +43,10 @@ Allows to easily embed Fiddles using a small shortcode.
 1. A JSFiddle embedded in a post using the plugin.
 
 == Changelog ==
+
+= 1.1.3 =
+
+- Add missing License and License URI headers in readme.txt
 
 = 1.1.2 =
 
