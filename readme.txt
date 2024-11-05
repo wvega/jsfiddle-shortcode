@@ -5,6 +5,8 @@ Tags: jsfiddle
 Requires at least: 3.4.0
 Tested up to: 6.6.2
 Stable tag: 1.1.2
+License: GPL-2.0+
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Allows to easily embed Fiddles using a small shortcode.
 

@@ -15,7 +15,7 @@
  * Author:            Willington Vega
  * Author URI:        https://wvega.com/
  * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
  */
 
 function jsfiddle_shortcode_handler($atts) {
